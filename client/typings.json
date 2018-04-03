@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "xlsx": "registry:dt/xlsx#0.0.0+20170314180219"
+  },
+  "globalDependencies": {
+    "node":"registry:dt/node#7.0.0+20170322231424"
+  }
+}
